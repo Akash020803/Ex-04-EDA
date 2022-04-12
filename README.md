@@ -34,8 +34,8 @@ Save the final data set into the file.
 ## CODE:
 ```
 *//
-PROGRAM DEVELOPED BY: PRETHIVEERAJAN P.
-REGISTER NUMBER: 212221230079.
+PROGRAM DEVELOPED BY: Akash A
+REGISTER NUMBER: 212221230003
 //*
 import pandas as pd
 import numpy as np
